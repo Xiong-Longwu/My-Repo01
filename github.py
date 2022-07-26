@@ -1,2 +1,2 @@
-print('Hello GitHub')
-print('2')
+版本1-test
+版本2-test
